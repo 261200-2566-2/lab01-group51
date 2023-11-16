@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
     public static void Sort(int [] x){
         Arrays.sort(x);
-        System.out.println("Result is : ");
+        System.out.println("Result is :");
         for (int i : x) {
             System.out.println(i);
         }
